@@ -1,4 +1,7 @@
-# Hi 👋, I'm Muhammad
+<div align="center">
+  # Hi 👋, I'm Muhammad Shafiq
+</div>
+
 
 <div align="center">
 
